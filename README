@@ -1,0 +1,20 @@
+# Optiver Realized Volatility Prediction
+
+This repository contains code for the Optiver Realized Volatility Prediction Kaggle competition.
+
+## Competition Description
+
+In this competition, participants are challenged to predict the realized volatility of financial instruments traded on various exchanges. The goal is to build a model that can accurately predict the realized volatility of a given instrument based on its order book data.
+
+## Repository Structure
+
+The repository is structured as follows:
+
+- `data/`: Contains the raw and processed data used in the competition.
+- `models/`: Contains the trained models and their corresponding weights.
+- `notebooks/`: Contains Jupyter notebooks used for data exploration, model training, and evaluation.
+- `src/`: Contains the source code for the models and data processing scripts.
+
+## Getting Started
+
+To get started with this repository, you'll need to clone the repository and install the required dependencies. You can do this by running the following commands:
