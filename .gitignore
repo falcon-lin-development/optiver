@@ -159,9 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-*.pt
-# *.de
-# *.en
-europarl-v7.de-en.de
-europarl-v7.de-en.en
-annotated_transformer/
+
+
+kaggle.json
+data/
+*.db
+*.csv
+*.pkl

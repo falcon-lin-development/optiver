@@ -1,0 +1,12 @@
+kaggle
+notebook
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+plotly
+fastparquet
+pyarrow
+joblib
+optuna

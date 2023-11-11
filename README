@@ -18,3 +18,5 @@ The repository is structured as follows:
 ## Getting Started
 
 To get started with this repository, you'll need to clone the repository and install the required dependencies. You can do this by running the following commands:
+
+$ kaggle competitions download -c optiver-trading-at-the-close
